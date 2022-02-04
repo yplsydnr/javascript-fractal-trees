@@ -15,10 +15,10 @@ This is to demonstrate basic use of canvas in HTML, in a recursive context. It's
 .. image:: trees/2.JPG
   :width: 400
   :alt: Alternative text
-.. image:: trees/3.JPG
+.. image:: trees/3.png
   :width: 400
   :alt: Alternative text
-.. image:: trees/4.JPG
+.. image:: trees/4.png
   :width: 400
   :alt: Alternative text
 .. image:: trees/5.JPG
