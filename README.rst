@@ -29,7 +29,7 @@ This is to demonstrate basic use of canvas in HTML, in a recursive context. It's
   :alt: Alternative text
 
 =====
-Here is an example of a bit more of a blatantly fractal-like implementation of the code (removing some of the randomness, I've put into the iterations).
+Here is an example of a bit more of a blatantly fractal-like implementation of the code (removing some of the randomness I had put into the iterations).
 =====
 
 .. image:: trees/7.png
