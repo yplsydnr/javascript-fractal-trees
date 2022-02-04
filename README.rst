@@ -36,6 +36,6 @@ Here is an example of a bit more of a blatantly fractal-like implementation of t
   :width: 400
   :alt: Alternative text
 
-  """""
-  Hope you enjoy
-  """""
+"""""
+Hope you enjoy
+"""""
