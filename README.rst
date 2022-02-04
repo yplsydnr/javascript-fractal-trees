@@ -27,9 +27,15 @@ This is to demonstrate basic use of canvas in HTML, in a recursive context. It's
 .. image:: trees/6.JPG
   :width: 400
   :alt: Alternative text
-.. image:: trees/7.JPG
+
+=====
+Here is an example of a bit more of a blatantly fractal-like implementation of the code (removing some of the randomness, I've put into the iterations).
+=====
+
+.. image:: trees/7.png
   :width: 400
   :alt: Alternative text
-.. image:: trees/8.JPG
-  :width: 400
-  :alt: Alternative text
+
+  """""
+  Hope you enjoy
+  """""
