@@ -1,8 +1,10 @@
 *****
-javascript fractal trees
+Vue.js fractal tree generator
 *****
 
-this program (*located within the "fractal-trees" folder*) uses javascript (and vue) to draw a uniquely generated fractal tree on an HTML canvas element in the browser. It's pretty fun :) Click "new tree" to make a new one! right click to save (which will save the tree's image and shape with no background).
+NOTE: YOU SHOULD INSTEAD GO TO MY REPO TITLED "simple-js-fractal-tree-generator", AS IT IS A MUCH MORE SIMPLIFIED IMPLEMENTATION.
+
+this program (*located within the "fractal-trees" folder*) uses javascript and vue to draw a uniquely generated fractal tree on an HTML canvas element in the browser. It's pretty fun :) Click "new tree" to make a new one! right click to save (which will save the tree's image and shape with no background).
 ########
 
 =====
